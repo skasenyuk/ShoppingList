@@ -53,7 +53,4 @@ class ShopListAdapter: ListAdapter<ShopItem, ShopItemViewHolder>(ShopItemDiffCal
         const val VIEW_TYPE_DISABLED = 101
         const val MAX_POOL_SIZE = 5
     }
-
-
-
 }
